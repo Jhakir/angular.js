@@ -310,6 +310,8 @@ the [Java Development Kit (JDK)][jdk] to be installed on your local machine. Che
 
 If JDK is not already installed, you can download it [here][jdk-download].
 
+Selenium runs tests on both Chrome and Firefox. Make sure both browsers are installed on your system.
+
 <br />
 **Error running the web server**
 
